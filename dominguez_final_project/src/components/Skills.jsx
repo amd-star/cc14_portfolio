@@ -1,6 +1,6 @@
 import React from 'react';
 
-const AboutMe = () => {
+const Skills = () => {
   return (
     <section className="my-12">
       <h2 className="text-3xl font-semibold text-blue-600">About Me</h2>
